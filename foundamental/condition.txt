@@ -1,0 +1,25 @@
+# if statement
+if it's hot 
+it's a hot day 
+drink plenty of water 
+
+otherwise if it's cold 
+it's a cold day 
+wear warm colth
+
+otherwise
+it's a lovely day 
+
+# logical operator
+if applicant has high income AND good credit
+    Eligible for loan
+
+if applicant has good credit AND doesn't have a criminal record
+
+# comparsion operator
+if temperature is greater than 30
+    it a hot day
+otherwise if it's leess than 10
+    it a cold day 
+otherwise
+    it neither hot or cold

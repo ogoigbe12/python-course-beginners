@@ -3,3 +3,6 @@ pieces = words.split()
 parts = pieces[3].split('-')
 n = parts[1]
 print(n)
+
+
+import numpy as np 
